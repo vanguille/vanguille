@@ -1,6 +1,6 @@
 ### Vanguille
 
-Solo creator of **COLONIZED**, a space-survival MMORPG for PC built in Unreal Engine 5: one persistent online universe, planets with atmosphere and ships you can walk through. Independent, based in Spain. I have been on the project for more than ten years, and I have built the game, the servers, the portal, the community and the automation around it myself.
+Solo creator of **COLONIZED**, a space-survival MMORPG for PC built in Unreal Engine 5: one persistent online universe, planets with atmosphere and ships you can walk through. Independent, based in Spain, working under the studio name Giraffa. I have been on the project for more than ten years, and I have built the game, the servers, the portal, the community and the automation around it myself.
 
 COLONIZED is not a game made with AI: one person makes it, with AI as a tool. In the game it has been used in very specific places and very little (some sounds and some art or icons); where it is used most is automating the information around the project: roadmap, social media and content generation.
 
@@ -14,7 +14,7 @@ Closed alpha, first waves in winter 2026-2027 (by invitation, through a Steam Pl
 
 ---
 
-**En español.** Creador único de **COLONIZED**, un MMORPG de supervivencia espacial para PC hecho con Unreal Engine 5. Independiente, desde España. Llevo más de diez años con el proyecto y he levantado yo mismo el juego, los servidores, el portal, la comunidad y la automatización que lo sostiene.
+**En español.** Creador único de **COLONIZED**, un MMORPG de supervivencia espacial para PC hecho con Unreal Engine 5. Independiente, desde España, con el nombre de estudio Giraffa. Llevo más de diez años con el proyecto y he levantado yo mismo el juego, los servidores, el portal, la comunidad y la automatización que lo sostiene.
 
 COLONIZED no es un juego hecho con IA: lo hace una persona, con la IA como herramienta. En el juego se ha usado en puntos muy concretos y muy poco (algunos sonidos y algo de arte o iconos); donde más se usa es en automatizar la información alrededor del proyecto: hoja de ruta, redes sociales y generación de contenido.
 
